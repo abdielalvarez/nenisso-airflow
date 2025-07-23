@@ -44,6 +44,9 @@ plugins/
 ├── operators/             # Custom operators per service
 ├── hooks/                # Service-specific connections
 └── sensors/              # Custom trigger sensors
+
+services/
+└── aliexpress.py          # Complete AliExpress API integration
 ```
 
 ## Development Commands
@@ -476,3 +479,98 @@ airflow dags test workflow_name 2025-01-01
 - **Coverage**: Test both DAG structure and business logic
 
 Remember: This project preserves complex business logic while gaining Airflow's orchestration capabilities. Always reference the original n8n workflows in `n8n-server/n8n/workflows/` when implementing new features or debugging issues.
+
+## AliExpress Service Integration
+
+### Overview
+The AliExpress service (`services/aliexpress.py`) provides complete integration with the AliExpress DataHub RapidAPI. It implements all 10 endpoints found in the original n8n workflows with proper error handling, logging, and validation.
+
+### Implementation Details
+
+**Service Class Location**: `services/aliexpress.py`  
+**Configuration**: Uses `include/configs/env_config.py` for environment variables  
+**API Key**: Configured via `RAPIDAPI_ALIEXPRESS_KEY` environment variable
+
+### Available Endpoints
+
+1. **item_search_5** - Product search by keyword
+2. **item_detail_3** - Detailed product information
+3. **category_list_1** - AliExpress categories list
+4. **item_desc_2** - Detailed product descriptions
+5. **store_item_search_2** - Search items within specific stores
+6. **shipping_detail_5** - Shipping information and costs
+7. **item_review_2** - Product reviews and ratings
+8. **store_categories** - Store-specific categories
+9. **store_info** - Store information and ratings
+10. **item_sku** - Product variants and SKU details
+
+### Testing Structure
+
+**Test Location**: `tests/executions/`  
+**Test Pattern**: `test_aliexpress_[endpoint].py`
+
+```bash
+# Run all AliExpress tests
+python tests/executions/test_aliexpress_search.py
+python tests/executions/test_aliexpress_item_detail.py
+python tests/executions/test_aliexpress_categories.py
+python tests/executions/test_aliexpress_description.py
+python tests/executions/test_aliexpress_store_search.py
+python tests/executions/test_aliexpress_shipping.py
+python tests/executions/test_aliexpress_reviews.py
+python tests/executions/test_aliexpress_store_categories.py
+python tests/executions/test_aliexpress_store_info.py
+python tests/executions/test_aliexpress_sku.py
+```
+
+### Error Handling
+
+The service implements comprehensive error handling:
+- **HTTP Status Validation**: Accepts codes 200 (success) and 205 (no results)
+- **API Response Validation**: Checks for violations and error conditions
+- **Logging**: Full request/response logging for debugging
+- **Exception Management**: Proper exception raising with context
+
+### Usage Pattern
+
+```python
+from services.aliexpress import AliExpress
+from include.configs.env_config import ENV
+
+# Initialize service
+api_key = ENV.get('RAPIDAPI_ALIEXPRESS_KEY')
+api = AliExpress(api_key)
+
+# Search products
+results = api.item_search_5(q="iphone", page=1)
+
+# Get product details
+details = api.item_detail_3("3256809212376891")
+```
+
+### Mock Data Structure
+
+**Mock Location**: `tests/data/aliexpress/`  
+**Pattern**: `[endpoint]_response.json`
+
+Mock files contain real API responses for testing and development purposes.
+
+### API Configuration
+
+**Base URL**: `https://aliexpress-datahub.p.rapidapi.com`  
+**Headers**: 
+- `x-rapidapi-host: aliexpress-datahub.p.rapidapi.com`
+- `x-rapidapi-key: [YOUR_API_KEY]`
+
+**Default Parameters**:
+- `locale: es_ES` (Spanish)
+- `region: MX` (Mexico)  
+- `currency: MXN` (Mexican Peso)
+
+### Migration Notes
+
+This service directly replaces the AliExpress functionality from the original n8n workflows:
+- Preserves all parameter structures from n8n nodes
+- Maintains error handling patterns
+- Supports all data transformations used in original workflows
+- Ready for integration into Airflow DAGs
