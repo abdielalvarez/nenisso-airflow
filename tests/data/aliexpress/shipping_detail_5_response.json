@@ -1,0 +1,19 @@
+{
+    "result": {
+        "status": {
+            "data": "error",
+            "code": 4006,
+            "msg": {
+                "user-side-violation": "invalid required parameter 'ext' value"
+            },
+            "requestTime": "2025-07-23 12:41:39",
+            "requestId": "f74fed4b546d98af4ddf28dd93838330",
+            "endpoint": "shipping_detail_5",
+            "apiVersion": "4.0.5",
+            "functionsVersion": "4.0.8",
+            "la": "0.00",
+            "pmu": 490344,
+            "mu": 379168
+        }
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "result": {
+        "status": {
+            "data": "error",
+            "code": 205,
+            "msg": {
+                "data-error": "request successfully formed, but no results were found"
+            },
+            "requestTime": "2025-07-23 12:40:47",
+            "requestId": "e28c62d0bc75c39bb76ddf9fbcc8bd8b",
+            "endpoint": "store_item_search_2",
+            "apiVersion": "4.0.5",
+            "functionsVersion": "4.0.8",
+            "la": "0.00",
+            "pmu": 486496,
+            "mu": 386240
+        }
+    }
+}

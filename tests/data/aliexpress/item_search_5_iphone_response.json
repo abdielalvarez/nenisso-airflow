@@ -1,0 +1,554 @@
+{
+    "result": {
+        "status": {
+            "code": 200,
+            "data": "success",
+            "executionTime": "1.37",
+            "requestTime": "2025-07-23 11:42:02",
+            "requestId": "3bd90ed7e9624f05bb489c49c75581e9",
+            "endpoint": "item_search_5",
+            "apiVersion": "4.0.5",
+            "functionsVersion": "4.0.8",
+            "la": "0.00",
+            "pmu": 715488,
+            "mu": 715168
+        },
+        "settings": {
+            "q": "iphone",
+            "catId": "",
+            "sort": "default",
+            "page": "1",
+            "startPrice": "",
+            "endPrice": "",
+            "region": "US",
+            "locale": "en_US",
+            "currency": "USD"
+        },
+        "base": {
+            "totalResults": 364812,
+            "pageSize": 32,
+            "page": 1,
+            "sortValues": [
+                "default",
+                "salesAsc",
+                "salesDesc",
+                "priceAsc",
+                "priceDesc"
+            ]
+        },
+        "resultList": [
+            {
+                "item": {
+                    "itemId": 3256809212376891,
+                    "title": "Girly Pink Cherry Bow Pattern Anti-Slip Anti-Fall Phone Case For iPhone 11 12 13 14 15 16 Pro Max XS X XR 16e 7 8 Plus 16 Cover",
+                    "sales": 1,
+                    "itemUrl": "//www.aliexpress.com/item/3256809212376891.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S737f600efdcd46ff8e2dde60a719a5c2N.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "3.98",
+                            "promotionPrice": "2.39"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809196870285,
+                    "title": "Black White Blue Polka Dots Phone Case for iPhone 11 13 12 14 15 16 Pro Max Plus Simple Cute Lovely Shockproof Soft Cover Funda",
+                    "sales": 18,
+                    "itemUrl": "//www.aliexpress.com/item/3256809196870285.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S48c27964f314409185183f50dc627c7dW.jpg",
+                    "video": "//video.aliexpress-media.com/play/u/ae_sg_item/2671562393/p/1/e/6/t/10301/4000289166983.mp4",
+                    "sku": {
+                        "def": {
+                            "price": "4.30",
+                            "promotionPrice": "2.32"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809340199579,
+                    "title": "Chase Atlantic Lost in Heaven Phone Case For iPhone 16 15 14 13 12 11 Pro Max Plus HD Double-Layer Liquid Back Film Hard Shell",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809340199579.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/Sfd82dec1ea854f6989e285228d51a8b3V.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "5.50",
+                            "promotionPrice": "5.50"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809281561108,
+                    "title": "Singer Young Miko Phone Case For iPhone 16 e 15 14 Plus13 12 mini 11 Pro Max XR XS X Glossy 2 in 1 Bumper Cover",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809281561108.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/Sc7bc844815a748da8051011ac016562aK.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "10.65",
+                            "promotionPrice": "10.65"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809294911262,
+                    "title": "Underwater Colorful Fish Cartoon Fresh Creative Cute Phone Case For iPhone 16 15 14 13 12 11 Pro XS Max 7 8 Plus MINI Y2K Cover",
+                    "sales": 3,
+                    "itemUrl": "//www.aliexpress.com/item/3256809294911262.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S155e62325fc94cad9e325ff6a498e315N.jpeg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "3.94",
+                            "promotionPrice": "1.22"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809285771082,
+                    "title": "Japan JDM Sports Cars Case for iPhone 16 14 15 Plus 11 12 13 Pro Max 16e XS XR 7 8 Soft TPU ",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809285771082.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S7754ad2c64b54690a79bfdfdd33eba18T.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "2.86",
+                            "promotionPrice": "2.86"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809271833316,
+                    "title": "Genshin Impact Game Phone Case For iPhone 16 e 15 14 Plus13 12 mini 11 Pro Max XR XS X Glossy 2 in 1 Bumper Cover",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809271833316.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/Sb06f08b3d6af4a068ba880d9c22ede3do.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "10.65",
+                            "promotionPrice": "10.65"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809162223405,
+                    "title": "Romantic Garden Pattern Silicone Case For iPhone 16e 15 16 14 Pro Max 14 13 12 11 Pro Max Shockproof Bumper Soft TPU Phone Cover",
+                    "sales": 1,
+                    "itemUrl": "//www.aliexpress.com/item/3256809162223405.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S9a5d9a408f1b4f7b98f923afc1dd297fj.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "1.77",
+                            "promotionPrice": "0.99"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809197823374,
+                    "title": "Black Edge Case for Apple iPhone XS 11 12 13 Pro Max 16e 12 Mini XR 14 15 16 Plus 7 8 SE Anime S-Solo Levelings Cool",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809197823374.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/Scf5d7ca450e84a78b78200f072bd81eee.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "3.08",
+                            "promotionPrice": "3.08"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809207466609,
+                    "title": "Sweet girls summer tulip stand bracket Phone Case For iPhone 16 15 14 13 12 Pro Max 14 15 16 Plus case Cute Cartoon Soft Cover",
+                    "sales": 2,
+                    "itemUrl": "//www.aliexpress.com/item/3256809207466609.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S1ada08b1fb8e48a1a6cd24aa5fb84a135.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "6.12",
+                            "promotionPrice": "1.71"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809279408549,
+                    "title": "Cute Pink Bow Case For iPhone 16 Pro Max Case for iPhone 15 14 13 12 11 Pro Max 16e Shockproof Bumper Silicone Soft Phone Cover",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809279408549.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S9f3e74c658ed4dd9bf1e92e7f91a3704X.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "1.77",
+                            "promotionPrice": "0.71"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809212075321,
+                    "title": "Lemon Striped Retro Design Phone Case For iPhone 16 Pro Max 15 14 13 12 11 XS X XR 7 8 Plus 16E Shockproof Soft Silicone Cover",
+                    "sales": 3,
+                    "itemUrl": "//www.aliexpress.com/item/3256809212075321.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/Sd13376d5d4224c61b53cf7e15ef3c854p.jpg",
+                    "video": "//video.aliexpress-media.com/play/u/ae_sg_item/2670648373/p/1/e/6/t/10301/4000289658663.mp4",
+                    "sku": {
+                        "def": {
+                            "price": "6.62",
+                            "promotionPrice": "3.24"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809281814538,
+                    "title": "R-Renee Rapp Singer Actress Phone Case For iPhone 16 e 15 14 Plus13 12 mini 11 Pro Max XR XS X Glossy 2 in 1 Bumper Cover",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809281814538.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S0f5fd73bea404a689e2e7727ebd3da121.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "10.65",
+                            "promotionPrice": "10.65"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809207284599,
+                    "title": "For iPhone 16 15 14 13 12 11 Pro Max Case Moon Sun Design Printed Silicone Cover For iPhone XS Max XR X 7 8 Plus 16e Soft Funda",
+                    "sales": 1,
+                    "itemUrl": "//www.aliexpress.com/item/3256809207284599.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S6c5f0c857a7b40779d475f154aeb2b15B.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "3.98",
+                            "promotionPrice": "2.39"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809286009609,
+                    "title": "Hot Hattah Keffiyeh Case for Apple iPhone 16e XR XS 16 14 15 Plus 11 12 13 Pro Max 7 8 Soft TPU ",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809286009609.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S7908474b31d14d8b90c35dcf18832ec5O.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "2.86",
+                            "promotionPrice": "2.86"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809285935864,
+                    "title": "Phone Case for Apple iPhone 11 12 13 Pro Max XR 7 8 16e XS 16 14 15 Plus Soft Cover Disney Lightning McQueens ",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809285935864.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S66c427025b2e447fa7a77230e2399122v.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "2.86",
+                            "promotionPrice": "2.86"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809289920188,
+                    "title": "Cartoon Dollar Monopolys Phone Case for iPhone 16 e15 14 8 7 Plus  13 12 mini 11 XR XS X Pro Max  anti Transparent  drop cover",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809289920188.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S2767b73563f145adba15a73ebf596f6fX.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "5.25",
+                            "promotionPrice": "5.25"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809154403217,
+                    "title": "Fresh Marble Phone case For iPhone 16 15 14promax Pattern Epoxy Resin Advanced For iPhone 13 12Pro 11 Compatible",
+                    "sales": 2,
+                    "itemUrl": "//www.aliexpress.com/item/3256809154403217.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/Sf6a49a56044d4a7ba0347699acb876c8M.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "8.29",
+                            "promotionPrice": "2.07"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809152133552,
+                    "title": "Chestnut Bear Mint Chocolate Cake Kawaii Cartoon Phone Case For iPhone 16 E 15 14 13 12 11 Pro XR Max 7 8 Plus Mini Y2K Cover ﻿",
+                    "sales": 1,
+                    "itemUrl": "//www.aliexpress.com/item/3256809152133552.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S84cd95563b3b40c097dd594eb22bcd6cg.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "3.73",
+                            "promotionPrice": "1.00"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809233676563,
+                    "title": "Pink Hibiscus Elegant High Aesthetic Phone Case For iPhone 16 Pro Max 15 14 13 12 11 XS X XR 16e Plus Anti-Drop Protective Cover",
+                    "sales": 8,
+                    "itemUrl": "//www.aliexpress.com/item/3256809233676563.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S69cb4ef06f8f42a1b15fd80e06fbb5d4C.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "3.13",
+                            "promotionPrice": "1.88"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809168167608,
+                    "title": "Soft TPU Case for Apple iPhone 12 13 12 11 Pro Max 7 8 Plus XS Max 11 Trendy Brand Disney Stitch",
+                    "sales": 1,
+                    "itemUrl": "//www.aliexpress.com/item/3256809168167608.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S20f4e134834e4e2eaeb970e9811f72f6V.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "5.80",
+                            "promotionPrice": "1.56"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809161570186,
+                    "title": "Ocean Creative Coastal Seashell Seaweed Pattern Phone Case For iPhone 16 15 14 13 12 11 Pro Max Mini XS X XR 7 8 Plus 16e Cover",
+                    "sales": 1,
+                    "itemUrl": "//www.aliexpress.com/item/3256809161570186.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S48a38a1d61e141cc9c9bb46a71cb012fZ.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "3.13",
+                            "promotionPrice": "1.88"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809197994876,
+                    "title": "Disney Tattoo Ariel Princess Case for Apple iPhone 12 Mini 11 7 8 13 16 Pro 16e XR 15 XS MAX 14 Clear Soft",
+                    "sales": 1,
+                    "itemUrl": "//www.aliexpress.com/item/3256809197994876.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S8f41f522c49341fdb22dd969a14f37e9N.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "3.08",
+                            "promotionPrice": "2.64"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809272065383,
+                    "title": "ADERs ERROR Phone Case For iPhone 16 e 15 14 Plus13 12 mini 11 Pro Max XR XS X Glossy 2 in 1 Bumper Cover",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809272065383.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/Sd53e1a56974f48c0911b10200352ef04S.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "10.65",
+                            "promotionPrice": "10.65"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809206968258,
+                    "title": "Retro sweet Spring white Flower bush sheep art Phone Case For iPhone 16 15 14 13 12 11 Pro Max Xr 14 16 Plus case Cute cover",
+                    "sales": 1,
+                    "itemUrl": "//www.aliexpress.com/item/3256809206968258.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S19ad2da9a13d4e94b86257e0742f1f44q.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "5.21",
+                            "promotionPrice": "1.20"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809226574189,
+                    "title": "The O Owl Houses Phone Case Black magnetic crystal porcelain Case for iPhone 16 15 14 13 12 11 Pro Max Plus MINI",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809226574189.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S74d996a5ac6b44118ac6f5c2750aa0ccT.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "13.92",
+                            "promotionPrice": "6.96"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809285795179,
+                    "title": "Soft Cover Case for Apple iPhone 16 14 15 Plus 16e 7 8 11 12 13 Pro Max XR XS Cartoon Characters ",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809285795179.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/Sf1b982f06fea40cd93177fcde32d8b2bW.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "2.86",
+                            "promotionPrice": "2.86"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809080278825,
+                    "title": "Soft Shell Phone Case for iPhone 16 15 Plus 11 16Pro 16e 13 14 Pro MAX 13Pro 12 Disney Stitch Angle",
+                    "sales": 6,
+                    "itemUrl": "//www.aliexpress.com/item/3256809080278825.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S5d5b11c37c2e4781abc575b010e6ae64F.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "3.31",
+                            "promotionPrice": "3.31"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809215813268,
+                    "title": "Korean Full Screen Glitter Colorful Star Phone Case For iPhone 16 15 14 13 12 11 Pro Max Xsmax Transparent Protective Back Cover",
+                    "sales": 1,
+                    "itemUrl": "//www.aliexpress.com/item/3256809215813268.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S1acfe456457d44f08e7b4eb9ace36765l.jpg",
+                    "video": "//video.aliexpress-media.com/play/u/ae_sg_item/6002673622/p/1/e/6/t/10301/4000289774696.mp4",
+                    "sku": {
+                        "def": {
+                            "price": "6.36",
+                            "promotionPrice": "1.72"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809290945946,
+                    "title": "Cute Kick Buttowski cartoon Phone Case for iPhone 16 e15 14 8 7 Plus 13 12 mini 11 XR XS X Pro Max anti Transparent drop cover",
+                    "sales": 0,
+                    "itemUrl": "//www.aliexpress.com/item/3256809290945946.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S657e334203b742b19f60674541a5f2e2u.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "5.25",
+                            "promotionPrice": "5.25"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809236747487,
+                    "title": "Black Pentagram Pattern Clear Phone Case For iPhone 11 12 13 14 15 16 Pro Max XS X XR 7 8 Plus 16e 2022 Shockproof Soft Cover",
+                    "sales": 1,
+                    "itemUrl": "//www.aliexpress.com/item/3256809236747487.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S676f7b5284e74174b77de782921779df1.jpg",
+                    "video": "",
+                    "sku": {
+                        "def": {
+                            "price": "2.86",
+                            "promotionPrice": "1.71"
+                        }
+                    }
+                }
+            },
+            {
+                "item": {
+                    "itemId": 3256809123478544,
+                    "title": "Artistic Tulip Pattern Case For iPhone 16 15 14 13 12 11 Pro Max Mini X S XR 7 8 Plus 16e Transparent Shockproof Soft Back Cover",
+                    "sales": 1,
+                    "itemUrl": "//www.aliexpress.com/item/3256809123478544.html",
+                    "image": "//ae-pic-a1.aliexpress-media.com/kf/S5e73570430804ec486b698895b6a8ef6t.jpg",
+                    "video": "//video.aliexpress-media.com/play/u/ae_sg_item/2671562393/p/1/e/6/t/10301/4000286926391.mp4",
+                    "sku": {
+                        "def": {
+                            "price": "4.30",
+                            "promotionPrice": "2.58"
+                        }
+                    }
+                }
+            }
+        ]
+    }
+}

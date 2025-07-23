@@ -1,0 +1,38 @@
+{
+    "result": {
+        "status": {
+            "data": "success",
+            "code": 200,
+            "attempt": 1,
+            "executionTime": "0.35",
+            "requestTime": "2025-07-23 12:43:22",
+            "requestId": "b7946a0118fcf7aeb52d01012d918d9f",
+            "endpoint": "store_info",
+            "apiVersion": "4.0.5",
+            "functionsVersion": "4.0.8",
+            "la": "0.00",
+            "pmu": 466712,
+            "mu": 386872
+        },
+        "settings": {
+            "sellerId": "231651707"
+        },
+        "seller": {
+            "sellerId": "231651707",
+            "storeTitle": "JiKeFun Global Toys Store",
+            "storeId": "1100383013",
+            "storeUrl": "//www.aliexpress.com/store/1100383013",
+            "storeImage": "//ae01.alicdn.com/kf/S0a5ca20f9b0549f8934f52bc8700c43aw.jpg",
+            "storeItemCount": 0,
+            "storeFollowers": 964,
+            "storeRating": {
+                "sellerLevel": "22-s",
+                "sellerPositiveNum": 111,
+                "sellerPositiveRate": "89.4",
+                "sellerScore": 1047,
+                "sellerTotalNum": 1350,
+                "showFeedbackStar": false
+            }
+        }
+    }
+}

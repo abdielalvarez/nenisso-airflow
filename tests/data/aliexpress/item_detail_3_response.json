@@ -1,0 +1,56 @@
+{
+    "result": {
+        "status": {
+            "code": 200,
+            "attempt": 1,
+            "p": "true",
+            "data": "success",
+            "executionTime": "4.12",
+            "requestTime": "2025-07-23 12:06:35",
+            "requestId": "9fd1ce24ce9b230aafa5e320abba6201",
+            "endpoint": "item_detail_3",
+            "apiVersion": "4.0.5",
+            "functionsVersion": "4.0.8",
+            "la": "0.00",
+            "pmu": 3005256,
+            "mu": 2227824
+        },
+        "settings": {
+            "locale": "es_ES",
+            "currency": "MXN",
+            "country": "MX",
+            "itemId": "3256809212376891"
+        },
+        "item": {
+            "available": true,
+            "itemId": "3256809212376891",
+            "title": "Funda de teléfono anticaída antideslizante con diseño de lazo de cereza rosa femenino para iPhone 11 12 13 14 15 16 Pro Max XS X XR 16e 7 8 Plus 16",
+            "catId": 202229403,
+            "sales": "1",
+            "wishCount": 2,
+            "itemUrl": "//www.aliexpress.com/item/3256809212376891.html",
+            "images": [
+                "//ae01.alicdn.com/kf/S737f600efdcd46ff8e2dde60a719a5c2N/Funda-de-tel-fono-antica-da-antideslizante-con-dise-o-de-lazo-de-cereza-rosa-femenino.jpg"
+            ],
+            "sku": {
+                "def": {
+                    "quantity": 255743,
+                    "price": "44.9 - 51.9",
+                    "promotionPrice": null,
+                    "vat": null,
+                    "unit": "unidad",
+                    "isBulk": false
+                }
+            },
+            "seller": {
+                "sellerId": 2673123393,
+                "storeTitle": "Shop1102485193 Store",
+                "storeId": 1102485193,
+                "companyId": 2673123393,
+                "storeUrl": "//www.aliexpress.com/store/1102485193",
+                "storeImage": "//ae-pic-a1.aliexpress-media.com/kf/Se90fceedf9d34ad1a8979283c98a1e45I/144x144.png",
+                "storeRating": "95.4"
+            }
+        }
+    }
+}

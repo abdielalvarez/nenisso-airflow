@@ -1,0 +1,2335 @@
+{
+    "result": {
+        "status": {
+            "code": 200,
+            "data": "success",
+            "executionTime": "1.38",
+            "requestTime": "2025-07-23 12:38:25",
+            "requestId": "23cd66df3a18aa5feff086012d3f89f9",
+            "endpoint": "category_list_1",
+            "apiVersion": "4.0.5",
+            "functionsVersion": "4.0.8",
+            "la": "0.00",
+            "pmu": 1012880,
+            "mu": 1012560
+        },
+        "resultList": [
+            {
+                "name": "Alimentación",
+                "id": 2,
+                "list": [
+                    {
+                        "name": "Alimentos enlatados",
+                        "id": 200183144
+                    },
+                    {
+                        "name": "Comestibles",
+                        "id": 200180142
+                    },
+                    {
+                        "name": "Productos congelados",
+                        "id": 201374104
+                    },
+                    {
+                        "name": "Alimentos y frescos (Spe)",
+                        "id": 202030002
+                    },
+                    {
+                        "name": "Y verduras verdes",
+                        "id": 201373004
+                    },
+                    {
+                        "name": "Carne",
+                        "id": 201379402
+                    },
+                    {
+                        "name": "Frutas y bayas",
+                        "id": 201379801
+                    },
+                    {
+                        "name": "Pan y pasteles",
+                        "id": 201378002
+                    },
+                    {
+                        "name": "Alimentos enlatados",
+                        "id": 201248407
+                    },
+                    {
+                        "name": "Salchichas",
+                        "id": 201378103
+                    },
+                    {
+                        "name": "Bebidas alcohólicas",
+                        "id": 201345805
+                    },
+                    {
+                        "name": "Y la comida de mar",
+                        "id": 201376903
+                    },
+                    {
+                        "name": "Almendras y nueces",
+                        "id": 200001321
+                    },
+                    {
+                        "name": "Fruta seca",
+                        "id": 200001317
+                    },
+                    {
+                        "name": "Productos a granel",
+                        "id": 200001287
+                    },
+                    {
+                        "name": "Café",
+                        "id": 200001238
+                    },
+                    {
+                        "name": "La leche y los huevos",
+                        "id": 201376204
+                    },
+                    {
+                        "name": "Comida preparada",
+                        "id": 201376702
+                    },
+                    {
+                        "name": "Agua/zumos/bebidas gaseosas sin alcohol",
+                        "id": 201249506
+                    },
+                    {
+                        "name": "Productos secos/especialidades locales",
+                        "id": 201248805
+                    },
+                    {
+                        "name": "Café",
+                        "id": 201248804
+                    },
+                    {
+                        "name": "Productos secos/especialidades locales",
+                        "id": 200003573
+                    },
+                    {
+                        "name": "Queso",
+                        "id": 201379901
+                    },
+                    {
+                        "name": "Frutas secas",
+                        "id": 201254404
+                    },
+                    {
+                        "name": "Los productos de granos",
+                        "id": 201254306
+                    },
+                    {
+                        "name": "Tuerca y del núcleo",
+                        "id": 201253905
+                    },
+                    {
+                        "name": "Té",
+                        "id": 100007269
+                    }
+                ]
+            },
+            {
+                "name": "Ropa y Accesorios",
+                "id": 3,
+                "list": [
+                    {
+                        "name": "Ropa deportiva",
+                        "id": 200003274
+                    }
+                ]
+            },
+            {
+                "name": "Electrodomésticos",
+                "id": 6,
+                "list": [
+                    {
+                        "name": "Otros electrodomésticos",
+                        "id": 628
+                    },
+                    {
+                        "name": "Grandes electrodomésticos",
+                        "id": 200293142
+                    },
+                    {
+                        "name": "Hogar",
+                        "id": 200294142
+                    },
+                    {
+                        "name": "Cuidado personal",
+                        "id": 200165142
+                    },
+                    {
+                        "name": "Comerciales",
+                        "id": 200235142
+                    },
+                    {
+                        "name": "Aparatos de limpieza",
+                        "id": 100000038
+                    },
+                    {
+                        "name": "Recambios para electrodomésticos",
+                        "id": 100000039
+                    },
+                    {
+                        "name": "Electrodomésticos de cocina",
+                        "id": 100000041
+                    }
+                ]
+            },
+            {
+                "name": "Informática y oficina",
+                "id": 7,
+                "list": [
+                    {
+                        "name": "Ordenadores de sobremesa",
+                        "id": 701
+                    },
+                    {
+                        "name": "Ordenadores portátiles",
+                        "id": 702
+                    },
+                    {
+                        "name": "Software para oficina",
+                        "id": 200318143
+                    },
+                    {
+                        "name": "Almacenamiento interno",
+                        "id": 200154144
+                    },
+                    {
+                        "name": "Accesorios para portátiles",
+                        "id": 200001083
+                    },
+                    {
+                        "name": "Periféricos",
+                        "id": 200001081
+                    },
+                    {
+                        "name": "Tablets",
+                        "id": 200001086
+                    },
+                    {
+                        "name": "Accesorios para tablets",
+                        "id": 200001085
+                    },
+                    {
+                        "name": "Componentes de ordenadores",
+                        "id": 200001076
+                    },
+                    {
+                        "name": "Almacenamiento Externo",
+                        "id": 200001074
+                    },
+                    {
+                        "name": "Dispositivos de red",
+                        "id": 200001077
+                    },
+                    {
+                        "name": "Limpieza para el ordenador",
+                        "id": 708022
+                    },
+                    {
+                        "name": "Barebón y mini PC",
+                        "id": 70803003
+                    },
+                    {
+                        "name": "Impresión 3D",
+                        "id": 200003879
+                    },
+                    {
+                        "name": "Electrónica para oficina",
+                        "id": 200003782
+                    },
+                    {
+                        "name": "Servidores y ordenador Industrial",
+                        "id": 201610101
+                    },
+                    {
+                        "name": "DIY PC Gaming",
+                        "id": 200048142
+                    }
+                ]
+            },
+            {
+                "name": "Mejoras para el hogar",
+                "id": 13,
+                "list": [
+                    {
+                        "name": "Equipamiento eléctrico y suministros",
+                        "id": 5
+                    },
+                    {
+                        "name": "Hardware",
+                        "id": 42
+                    },
+                    {
+                        "name": "Piedra tallada y esculturas",
+                        "id": 131207
+                    },
+                    {
+                        "name": "Piedras para paisajismo",
+                        "id": 131211
+                    },
+                    {
+                        "name": "Encimeras, tocadores  y tableros de mesas",
+                        "id": 131210
+                    },
+                    {
+                        "name": "Piedra y losas de cantera",
+                        "id": 1312
+                    },
+                    {
+                        "name": "Vidrio de construcción",
+                        "id": 1315
+                    },
+                    {
+                        "name": "Escaleras y andamios",
+                        "id": 1330
+                    },
+                    {
+                        "name": "Otras mejoras para el hogar",
+                        "id": 1333
+                    },
+                    {
+                        "name": "Fontanería",
+                        "id": 200282142
+                    },
+                    {
+                        "name": "Sistema de inteligencia familiar",
+                        "id": 200321150
+                    },
+                    {
+                        "name": "Servicio de instalación",
+                        "id": 201303704
+                    },
+                    {
+                        "name": "Paisajismo de jardines y terrazas",
+                        "id": 12504
+                    },
+                    {
+                        "name": "Materiales de pintura y tratamientos de la pared",
+                        "id": 200264142
+                    },
+                    {
+                        "name": "Material funcional",
+                        "id": 200001751
+                    },
+                    {
+                        "name": "Materiales de construcción metálicos",
+                        "id": 200001382
+                    },
+                    {
+                        "name": "Accesorios de baño",
+                        "id": 200066142
+                    },
+                    {
+                        "name": "Accesorios de cocina",
+                        "id": 200066144
+                    },
+                    {
+                        "name": "Bbbb",
+                        "id": 200072142
+                    },
+                    {
+                        "name": "Calefacción, refrigeración y ventilación",
+                        "id": 200366148
+                    },
+                    {
+                        "name": "Aaaa",
+                        "id": 200071142
+                    },
+                    {
+                        "name": "Madera",
+                        "id": 100005335
+                    },
+                    {
+                        "name": "Tableros",
+                        "id": 100005320
+                    },
+                    {
+                        "name": "Materiales de construcción de plástico",
+                        "id": 100005310
+                    },
+                    {
+                        "name": "Productos para el movimiento de tierras",
+                        "id": 100005281
+                    },
+                    {
+                        "name": "Accesorios de muro cortina",
+                        "id": 100005265
+                    },
+                    {
+                        "name": "Techos",
+                        "id": 100007099
+                    },
+                    {
+                        "name": "Solariums y casas de cristal",
+                        "id": 100007082
+                    },
+                    {
+                        "name": "Puertas, verjas y ventanas",
+                        "id": 100007064
+                    },
+                    {
+                        "name": "Escaleras y accesorios",
+                        "id": 100007071
+                    },
+                    {
+                        "name": "Baldosas y accesorios",
+                        "id": 100006285
+                    },
+                    {
+                        "name": "Suelo y accesorios",
+                        "id": 100006266
+                    }
+                ]
+            },
+            {
+                "name": "Hogar y Jardín",
+                "id": 15,
+                "list": [
+                    {
+                        "name": "Utensilios de jardinería",
+                        "id": 125
+                    },
+                    {
+                        "name": "Textil de hogar",
+                        "id": 405
+                    },
+                    {
+                        "name": "Almacenamiento y organización del hogar",
+                        "id": 1541
+                    },
+                    {
+                        "name": "Decoración para el hogar",
+                        "id": 3710
+                    },
+                    {
+                        "name": "Artículos del hogar",
+                        "id": 200033149
+                    },
+                    {
+                        "name": "Utensilios de cocina, comedor y bebidas",
+                        "id": 200000920
+                    },
+                    {
+                        "name": "Coleccionables",
+                        "id": 200003998
+                    },
+                    {
+                        "name": "Materiales de costura, pintura y artesanía",
+                        "id": 200003937
+                    },
+                    {
+                        "name": "Artículos para fiestas",
+                        "id": 100001824
+                    },
+                    {
+                        "name": "Artículos para mascotas",
+                        "id": 100006664
+                    }
+                ]
+            },
+            {
+                "name": "Deportes y ocio",
+                "id": 18,
+                "list": [
+                    {
+                        "name": "Deportes de equipo",
+                        "id": 200378143
+                    },
+                    {
+                        "name": "Baloncesto (nuevo)",
+                        "id": 202220404
+                    },
+                    {
+                        "name": "Fútbol (nuevo)",
+                        "id": 202220403
+                    },
+                    {
+                        "name": "Competiciones deportivas",
+                        "id": 200297143
+                    },
+                    {
+                        "name": "Deportes de raqueta",
+                        "id": 200003540
+                    },
+                    {
+                        "name": "Entretenimiento",
+                        "id": 200003538
+                    },
+                    {
+                        "name": "Esquí y snowboard",
+                        "id": 200003543
+                    },
+                    {
+                        "name": "Patines y tablas de skate",
+                        "id": 200003541
+                    },
+                    {
+                        "name": "Ciclismo",
+                        "id": 200003500
+                    },
+                    {
+                        "name": "Otros Deportes y ocio producto",
+                        "id": 200004194
+                    },
+                    {
+                        "name": "Bolsas de deporte (oculta)",
+                        "id": 200004217
+                    },
+                    {
+                        "name": "Deportes acuáticos",
+                        "id": 100005657
+                    },
+                    {
+                        "name": "Tiro",
+                        "id": 100005571
+                    },
+                    {
+                        "name": "Caza",
+                        "id": 100005563
+                    },
+                    {
+                        "name": "Pesca",
+                        "id": 100005537
+                    },
+                    {
+                        "name": "Hípica",
+                        "id": 100005551
+                    },
+                    {
+                        "name": "Camping y senderismo",
+                        "id": 100005529
+                    },
+                    {
+                        "name": "Instrumentos musicales",
+                        "id": 100005481
+                    },
+                    {
+                        "name": "Fitness y musculación",
+                        "id": 100005371
+                    },
+                    {
+                        "name": "Golf",
+                        "id": 100005360
+                    },
+                    {
+                        "name": "Animadoras",
+                        "id": 100005880
+                    }
+                ]
+            },
+            {
+                "name": "Material escolar y de oficina",
+                "id": 21,
+                "list": [
+                    {
+                        "name": "Papel y medios impresos",
+                        "id": 2112
+                    },
+                    {
+                        "name": "Accesorios para dibujo",
+                        "id": 2139
+                    },
+                    {
+                        "name": "Libros",
+                        "id": 2202
+                    },
+                    {
+                        "name": "Mapas y atlas",
+                        "id": 2209
+                    },
+                    {
+                        "name": "Revistas, periódicos y magacines",
+                        "id": 2213
+                    },
+                    {
+                        "name": "Correo y envío",
+                        "id": 201330702
+                    },
+                    {
+                        "name": "La presentación de los productos",
+                        "id": 201338004
+                    },
+                    {
+                        "name": "Libros",
+                        "id": 201236701
+                    },
+                    {
+                        "name": "Accesorios y organizador para escritorio",
+                        "id": 211106
+                    },
+                    {
+                        "name": "Materiales de pintura",
+                        "id": 211111
+                    },
+                    {
+                        "name": "Pizarras para presentaciones",
+                        "id": 212002
+                    },
+                    {
+                        "name": "Suministros contables",
+                        "id": 200652001
+                    },
+                    {
+                        "name": "Bolígrafos, lápices y utensilios para escribir",
+                        "id": 200001743
+                    },
+                    {
+                        "name": "Calendarios, planificador y tarjetas",
+                        "id": 200001562
+                    },
+                    {
+                        "name": "Adhesivos de papelería",
+                        "id": 200004276
+                    },
+                    {
+                        "name": "Cuadernos y blocs de notas",
+                        "id": 100003155
+                    },
+                    {
+                        "name": "Materiales escolares",
+                        "id": 100003125
+                    },
+                    {
+                        "name": "Cintas, adhesivos y cierres",
+                        "id": 100003134
+                    },
+                    {
+                        "name": "Material y muebles para colegios",
+                        "id": 100003135
+                    },
+                    {
+                        "name": "Maeriales de encuadernación de oficina",
+                        "id": 100003129
+                    },
+                    {
+                        "name": "Juego de herramientas artísticas",
+                        "id": 100003131
+                    }
+                ]
+            },
+            {
+                "name": "Juguetes y aficiones",
+                "id": 26,
+                "list": [
+                    {
+                        "name": "Juguetes anti estrés",
+                        "id": 200246142
+                    },
+                    {
+                        "name": "Jugar vehículos y modelos",
+                        "id": 201534605
+                    },
+                    {
+                        "name": "Hobbies y piezas de colección",
+                        "id": 200388154
+                    },
+                    {
+                        "name": "Juguetes de última tecnología",
+                        "id": 200386159
+                    },
+                    {
+                        "name": "Productos ACG",
+                        "id": 202227409
+                    },
+                    {
+                        "name": "Juguetes y piezas de artesanía",
+                        "id": 200389156
+                    },
+                    {
+                        "name": "Piscinas y juegos acuáticos",
+                        "id": 200389159
+                    },
+                    {
+                        "name": "Fiestas para niños",
+                        "id": 200389146
+                    },
+                    {
+                        "name": "Puzzles y juegos",
+                        "id": 200001726
+                    },
+                    {
+                        "name": "Muñecas y peluches",
+                        "id": 200001725
+                    },
+                    {
+                        "name": "Caja ciega de moda Juguetes",
+                        "id": 202197601
+                    },
+                    {
+                        "name": "Juguetes electrónicos",
+                        "id": 200001388
+                    },
+                    {
+                        "name": "Animales de peluche y felpa",
+                        "id": 200001387
+                    },
+                    {
+                        "name": "Juguetes de radiocontrol",
+                        "id": 200001385
+                    },
+                    {
+                        "name": "Muñecas y accesorios",
+                        "id": 200001389
+                    },
+                    {
+                        "name": "Otros juguetes",
+                        "id": 200001384
+                    },
+                    {
+                        "name": "Juguetes de construcción",
+                        "id": 200001383
+                    },
+                    {
+                        "name": "Diversión y deportes al aire libre",
+                        "id": 100001719
+                    },
+                    {
+                        "name": "Aprendizaje y educación",
+                        "id": 100001714
+                    },
+                    {
+                        "name": "Juegos de imaginación",
+                        "id": 100001716
+                    },
+                    {
+                        "name": "Juguetes clásicos",
+                        "id": 100001715
+                    },
+                    {
+                        "name": "Juguetes para bebés y niños pequeños",
+                        "id": 100001698
+                    },
+                    {
+                        "name": "Acción y figuras de juguete 1",
+                        "id": 201292714
+                    }
+                ]
+            },
+            {
+                "name": "Seguridad y protección",
+                "id": 30,
+                "list": [
+                    {
+                        "name": "Suministros para la seguridad en el trabajo",
+                        "id": 3007
+                    },
+                    {
+                        "name": "Protección contra incendios",
+                        "id": 3009
+                    },
+                    {
+                        "name": "Videovigilancia",
+                        "id": 3011
+                    },
+                    {
+                        "name": "Seguridad en carretera",
+                        "id": 3015
+                    },
+                    {
+                        "name": "Control de acceso",
+                        "id": 3030
+                    },
+                    {
+                        "name": "Wearables",
+                        "id": 200330186
+                    },
+                    {
+                        "name": "Kits de primeros auxilios",
+                        "id": 200001791
+                    },
+                    {
+                        "name": "Automatización de edificios",
+                        "id": 200327231
+                    },
+                    {
+                        "name": "Suministros para catástrofes",
+                        "id": 200327211
+                    },
+                    {
+                        "name": "Retransmisión pública",
+                        "id": 200327212
+                    },
+                    {
+                        "name": "Cajas fuertes",
+                        "id": 200327196
+                    },
+                    {
+                        "name": "Dispositivo de inspección de seguridad",
+                        "id": 200328267
+                    },
+                    {
+                        "name": "Artículos de defensa personal",
+                        "id": 200328217
+                    },
+                    {
+                        "name": "Drones y artefactos voladores",
+                        "id": 200332185
+                    },
+                    {
+                        "name": "Cables y transmisión",
+                        "id": 200004343
+                    },
+                    {
+                        "name": "Alarmas de seguridad",
+                        "id": 200004311
+                    },
+                    {
+                        "name": "Intercomunicación",
+                        "id": 200004310
+                    },
+                    {
+                        "name": "Sistema de tarjeta inteligente",
+                        "id": 200004309
+                    }
+                ]
+            },
+            {
+                "name": "Automóviles, recambios y accesorios",
+                "id": 34,
+                "list": [
+                    {
+                        "name": "Nueva Energía vehículo Partes y accesorios",
+                        "id": 201885506
+                    },
+                    {
+                        "name": "Servicios de",
+                        "id": 201268984
+                    },
+                    {
+                        "name": "Lavado y mantenimiento del coche",
+                        "id": 200260142
+                    },
+                    {
+                        "name": "Herramientas de reparación de coche",
+                        "id": 200259142
+                    },
+                    {
+                        "name": "Faros de coche",
+                        "id": 200002005
+                    },
+                    {
+                        "name": "Piezas de chasis",
+                        "id": 201902101
+                    },
+                    {
+                        "name": "Accesorios de exterior",
+                        "id": 200003427
+                    },
+                    {
+                        "name": "Motores y piezas de motor",
+                        "id": 201902201
+                    },
+                    {
+                        "name": "Accesorios de interior",
+                        "id": 200003411
+                    },
+                    {
+                        "name": "Equipo eléctrico",
+                        "id": 201902301
+                    },
+                    {
+                        "name": "Piezas de desgaste",
+                        "id": 201902401
+                    },
+                    {
+                        "name": "Piezas exteriores",
+                        "id": 201902403
+                    },
+                    {
+                        "name": "Electrónica para coches",
+                        "id": 200000285
+                    },
+                    {
+                        "name": "Recambios para coche",
+                        "id": 200000212
+                    },
+                    {
+                        "name": "Arrancadores",
+                        "id": 201901903
+                    },
+                    {
+                        "name": "Automoción Sensores",
+                        "id": 201902001
+                    },
+                    {
+                        "name": "Venta de coches",
+                        "id": 200004218
+                    },
+                    {
+                        "name": "Otras piezas y accesorios del coche",
+                        "id": 200004043
+                    },
+                    {
+                        "name": "Piezas interiores",
+                        "id": 201908801
+                    }
+                ]
+            },
+            {
+                "name": "Joyería y accesorios",
+                "id": 36,
+                "list": [
+                    {
+                        "name": "Joyería de moda",
+                        "id": 1509
+                    },
+                    {
+                        "name": "Joyería personalizada",
+                        "id": 201239108
+                    },
+                    {
+                        "name": "Joyas hechas a mano",
+                        "id": 201238105
+                    },
+                    {
+                        "name": "Joyería fina",
+                        "id": 200001680
+                    },
+                    {
+                        "name": "Packaging para joyas",
+                        "id": 200001479
+                    },
+                    {
+                        "name": "Herramientas y equipos de joyería",
+                        "id": 200001478
+                    },
+                    {
+                        "name": "Joyería elegante",
+                        "id": 200370154
+                    }
+                ]
+            },
+            {
+                "name": "Luces e iluminación",
+                "id": 39,
+                "list": [
+                    {
+                        "name": "Accesorios de iluminación",
+                        "id": 530
+                    },
+                    {
+                        "name": "Iluminación de interior",
+                        "id": 1504
+                    },
+                    {
+                        "name": "Otras luces y productos de iluminación",
+                        "id": 3999
+                    },
+                    {
+                        "name": "Ingeniería especial Iluminación",
+                        "id": 200326144
+                    },
+                    {
+                        "name": "Focos profesionales",
+                        "id": 200001704
+                    },
+                    {
+                        "name": "Iluminación para festivos",
+                        "id": 150403
+                    },
+                    {
+                        "name": "Iluminación de exterior",
+                        "id": 150401
+                    },
+                    {
+                        "name": "Bombillas y tubos de luz",
+                        "id": 150402
+                    },
+                    {
+                        "name": "Iluminación comercial",
+                        "id": 200001493
+                    },
+                    {
+                        "name": "Iluminación novedosa (nueva)",
+                        "id": 202228614
+                    },
+                    {
+                        "name": "Luces nocturnas",
+                        "id": 39050508
+                    },
+                    {
+                        "name": "Iluminación LED",
+                        "id": 390501
+                    },
+                    {
+                        "name": "Lámparas portátiles",
+                        "id": 390503
+                    }
+                ]
+            },
+            {
+                "name": "Electrónica de consumo",
+                "id": 44,
+                "list": [
+                    {
+                        "name": "Accesorios y recambios",
+                        "id": 629
+                    },
+                    {
+                        "name": "Electrónica inteligente",
+                        "id": 200003803
+                    },
+                    {
+                        "name": "Cigarrillos electrónicos",
+                        "id": 200003561
+                    },
+                    {
+                        "name": "Juegos y accesorios",
+                        "id": 100000310
+                    },
+                    {
+                        "name": "Audio portátil y vídeo",
+                        "id": 100000306
+                    },
+                    {
+                        "name": "Cámara y fotografía",
+                        "id": 100000305
+                    },
+                    {
+                        "name": "Equipos de audio y vídeo domésticos",
+                        "id": 100000308
+                    }
+                ]
+            },
+            {
+                "name": "Belleza y salud",
+                "id": 66,
+                "list": [
+                    {
+                        "name": "Papel higiénico",
+                        "id": 1513
+                    },
+                    {
+                        "name": "Higiene bucal",
+                        "id": 3305
+                    },
+                    {
+                        "name": "Cuidado de la piel",
+                        "id": 3306
+                    },
+                    {
+                        "name": "Maquillaje",
+                        "id": 660103
+                    },
+                    {
+                        "name": "Afeitado y depilación",
+                        "id": 660302
+                    },
+                    {
+                        "name": "Accesorios de belleza",
+                        "id": 201169002
+                    },
+                    {
+                        "name": "Suministros de rehabilitación",
+                        "id": 202188610
+                    },
+                    {
+                        "name": "Equipo de laboratorio médico",
+                        "id": 202219877
+                    },
+                    {
+                        "name": "Tattoo y piercing",
+                        "id": 200001976
+                    },
+                    {
+                        "name": "Juguetes sexuales",
+                        "id": 200001508
+                    },
+                    {
+                        "name": "Cuidado de la salud",
+                        "id": 200001355
+                    },
+                    {
+                        "name": "Bañera y ducha",
+                        "id": 200001288
+                    },
+                    {
+                        "name": "Perfumes y desodorantes",
+                        "id": 200001221
+                    },
+                    {
+                        "name": "Herramientas y accesorios",
+                        "id": 200001187
+                    },
+                    {
+                        "name": "Cuidado del cabello y estilismo",
+                        "id": 200001168
+                    },
+                    {
+                        "name": "Utensilios para manicura",
+                        "id": 200001147
+                    },
+                    {
+                        "name": "Suministros Dentales",
+                        "id": 201248902
+                    },
+                    {
+                        "name": "Herramientas para masajes",
+                        "id": 201217706
+                    },
+                    {
+                        "name": "Artículos de cuidado facial",
+                        "id": 100000616
+                    }
+                ]
+            },
+            {
+                "name": "Bodas y eventos",
+                "id": 320,
+                "list": [
+                    {
+                        "name": "Vestidos para ocasiones formales",
+                        "id": 201236002
+                    },
+                    {
+                        "name": "Vestidos para ocasiones especiales a medida",
+                        "id": 201238406
+                    },
+                    {
+                        "name": "Vestido de fiesta para bodas",
+                        "id": 200000410
+                    },
+                    {
+                        "name": "Vestidos para ocasiones especiales",
+                        "id": 200000749
+                    },
+                    {
+                        "name": "Accesorios de boda",
+                        "id": 100005787
+                    },
+                    {
+                        "name": "Vestidos de novia",
+                        "id": 32005
+                    }
+                ]
+            },
+            {
+                "name": "Calzado",
+                "id": 322,
+                "list": [
+                    {
+                        "name": "Calzado para mujer",
+                        "id": 200133142
+                    },
+                    {
+                        "name": "Calzado para hombre",
+                        "id": 200131145
+                    },
+                    {
+                        "name": "Zuecos y pantuflas",
+                        "id": 200001000
+                    },
+                    {
+                        "name": "Accesorios para calzado",
+                        "id": 32210
+                    },
+                    {
+                        "name": "Otros calzados",
+                        "id": 32299
+                    }
+                ]
+            },
+            {
+                "name": "Componentes y suministros electrónicos",
+                "id": 502,
+                "list": [
+                    {
+                        "name": "Sistemas electrónicos de datos",
+                        "id": 504
+                    },
+                    {
+                        "name": "Electrónica",
+                        "id": 515
+                    },
+                    {
+                        "name": "Componentes activos",
+                        "id": 4001
+                    },
+                    {
+                        "name": "Maquinaria de producción electrónica",
+                        "id": 4002
+                    },
+                    {
+                        "name": "Accesorios y suministros electrónicos",
+                        "id": 4003
+                    },
+                    {
+                        "name": "Muestras optoelectrónicas",
+                        "id": 4004
+                    },
+                    {
+                        "name": "Componentes pasivos",
+                        "id": 4005
+                    },
+                    {
+                        "name": "Otros componentes electrónicos",
+                        "id": 4099
+                    },
+                    {
+                        "name": "Paneles electrónicos",
+                        "id": 150407
+                    },
+                    {
+                        "name": "Productos electroluminiscentes",
+                        "id": 150412
+                    }
+                ]
+            },
+            {
+                "name": "Teléfonos y comunicación",
+                "id": 509,
+                "list": [
+                    {
+                        "name": "Teléfonos móviles",
+                        "id": 5090301
+                    },
+                    {
+                        "name": "Walkie-talkie",
+                        "id": 50906
+                    },
+                    {
+                        "name": "Piezas de teléfonos móviles",
+                        "id": 201084002
+                    },
+                    {
+                        "name": "Equipos de comunicación",
+                        "id": 100001204
+                    }
+                ]
+            },
+            {
+                "name": "Herramientas",
+                "id": 1420,
+                "list": [
+                    {
+                        "name": "Herramientas eléctricas",
+                        "id": 1417
+                    },
+                    {
+                        "name": "Suministros de soldadura",
+                        "id": 1427
+                    },
+                    {
+                        "name": "Equipos y suministros de soldadura",
+                        "id": 1440
+                    },
+                    {
+                        "name": "Instrumentos de medición y análisis",
+                        "id": 1537
+                    },
+                    {
+                        "name": "Remachadoras",
+                        "id": 200183146
+                    },
+                    {
+                        "name": "Herramientas abrasivas y abrasivos",
+                        "id": 202216802
+                    },
+                    {
+                        "name": "Brocas, hojas de sierra y herramientas de corte",
+                        "id": 202217001
+                    },
+                    {
+                        "name": "Máquina de grabado láser y accesorios",
+                        "id": 202216201
+                    },
+                    {
+                        "name": "Herramientas manuales",
+                        "id": 142003
+                    },
+                    {
+                        "name": "Recambios de herramientas",
+                        "id": 142001
+                    },
+                    {
+                        "name": "Herramientas de construcción",
+                        "id": 142016
+                    },
+                    {
+                        "name": "Otras herramientas",
+                        "id": 142099
+                    },
+                    {
+                        "name": "Herramientas de jardinería",
+                        "id": 12503
+                    },
+                    {
+                        "name": "De piezas de herramientas y accesorios",
+                        "id": 201252405
+                    },
+                    {
+                        "name": "Sets de herramientas",
+                        "id": 200003955
+                    },
+                    {
+                        "name": "Embalaje de herramientas",
+                        "id": 100007485
+                    }
+                ]
+            },
+            {
+                "name": "Madres y niños",
+                "id": 1501,
+                "list": [
+                    {
+                        "name": "Ropa de bebé",
+                        "id": 310
+                    },
+                    {
+                        "name": "Ropa de niños",
+                        "id": 311
+                    },
+                    {
+                        "name": "Cochecitos de bebé y accesorios",
+                        "id": 201273175
+                    },
+                    {
+                        "name": "Actividad y engranaje",
+                        "id": 200002039
+                    },
+                    {
+                        "name": "Alimentación",
+                        "id": 200002038
+                    },
+                    {
+                        "name": "Seguridad",
+                        "id": 200002006
+                    },
+                    {
+                        "name": "Pañales y preparación para el wc",
+                        "id": 200328147
+                    },
+                    {
+                        "name": "Embarazo y Maternidad",
+                        "id": 200328149
+                    },
+                    {
+                        "name": "Pañales y toatillas",
+                        "id": 201671802
+                    },
+                    {
+                        "name": "Asientos para coche y accesorios",
+                        "id": 200329142
+                    },
+                    {
+                        "name": "Cuidado del bebé",
+                        "id": 200001330
+                    },
+                    {
+                        "name": "Zapatos de bebé",
+                        "id": 200000937
+                    },
+                    {
+                        "name": "Calzado para niños",
+                        "id": 200000947
+                    },
+                    {
+                        "name": "Ropa de maternidad",
+                        "id": 200000500
+                    },
+                    {
+                        "name": "Esterilización de bebé y accesorios",
+                        "id": 201678201
+                    },
+                    {
+                        "name": "Regalos para bebés",
+                        "id": 200332157
+                    },
+                    {
+                        "name": "Muebles para bebés",
+                        "id": 200332158
+                    },
+                    {
+                        "name": "Alimentos para bebés",
+                        "id": 200364142
+                    },
+                    {
+                        "name": "Ropa de cama",
+                        "id": 100003020
+                    },
+                    {
+                        "name": "Niños Accesorios",
+                        "id": 201293501
+                    }
+                ]
+            },
+            {
+                "name": "Muebles",
+                "id": 1503,
+                "list": [
+                    {
+                        "name": "Recambios de muebles",
+                        "id": 3708
+                    },
+                    {
+                        "name": "Accesorios de muebles",
+                        "id": 3712
+                    },
+                    {
+                        "name": "Mobiliario para cafetería",
+                        "id": 200130145
+                    },
+                    {
+                        "name": "Muebles Senior",
+                        "id": 202192402
+                    },
+                    {
+                        "name": "Muebles para el hogar",
+                        "id": 150303
+                    },
+                    {
+                        "name": "Muebles de oficina",
+                        "id": 150304
+                    },
+                    {
+                        "name": "Mobiliario comercial",
+                        "id": 150301
+                    },
+                    {
+                        "name": "Muebles de exterior",
+                        "id": 150302
+                    },
+                    {
+                        "name": "Otros Muebles",
+                        "id": 150399
+                    },
+                    {
+                        "name": "Muebles de bar",
+                        "id": 100001029
+                    },
+                    {
+                        "name": "Muebles para niños",
+                        "id": 100003019
+                    }
+                ]
+            },
+            {
+                "name": "Relojes",
+                "id": 1511,
+                "list": [
+                    {
+                        "name": "Relojes personalizados",
+                        "id": 202223401
+                    },
+                    {
+                        "name": "Relojes de hombre",
+                        "id": 200362146
+                    },
+                    {
+                        "name": "Relojes de mujer",
+                        "id": 200362145
+                    },
+                    {
+                        "name": "Relojes de niños",
+                        "id": 200362144
+                    },
+                    {
+                        "name": "Relojes de pareja",
+                        "id": 200362143
+                    },
+                    {
+                        "name": "Accesorios para relojes",
+                        "id": 200000121
+                    },
+                    {
+                        "name": "Relojes de bolsillo",
+                        "id": 200000126
+                    }
+                ]
+            },
+            {
+                "name": "Bolsos y maletas",
+                "id": 1524,
+                "list": [
+                    {
+                        "name": "Verano bolsas",
+                        "id": 201296801
+                    },
+                    {
+                        "name": "Accesorios de viaje",
+                        "id": 201296102
+                    },
+                    {
+                        "name": "Invierno bolsas",
+                        "id": 201295902
+                    },
+                    {
+                        "name": "Bolsas de viaje",
+                        "id": 201294604
+                    },
+                    {
+                        "name": "Carteras y portatarjetas",
+                        "id": 3803
+                    },
+                    {
+                        "name": "Bolsas para fines especiales",
+                        "id": 3805
+                    },
+                    {
+                        "name": "Bolsas de viaje",
+                        "id": 3806
+                    },
+                    {
+                        "name": "Equipaje",
+                        "id": 201298604
+                    },
+                    {
+                        "name": "Riñoneras",
+                        "id": 201396505
+                    },
+                    {
+                        "name": "Las mujeres bolsos de mano",
+                        "id": 201336907
+                    },
+                    {
+                        "name": "Bolsos de hombre",
+                        "id": 201337808
+                    },
+                    {
+                        "name": "Bolsas de pecho",
+                        "id": 201401303
+                    },
+                    {
+                        "name": "Niños Bolsas",
+                        "id": 201376929
+                    },
+                    {
+                        "name": "Mochilas para el colegio",
+                        "id": 380520
+                    },
+                    {
+                        "name": "Maletas y bolsas de viaje",
+                        "id": 152404
+                    },
+                    {
+                        "name": "Mochilas",
+                        "id": 152401
+                    },
+                    {
+                        "name": "Maletines",
+                        "id": 152402
+                    },
+                    {
+                        "name": "Recambios y accesorios de bolso",
+                        "id": 152409
+                    },
+                    {
+                        "name": "Otros bolsos y maletas",
+                        "id": 152499
+                    }
+                ]
+            },
+            {
+                "name": "Ropa interior",
+                "id": 200574005,
+                "list": [
+                    {
+                        "name": "Calcetines de hombre",
+                        "id": 202219099
+                    },
+                    {
+                        "name": "Pijamas de mujer",
+                        "id": 200001894
+                    },
+                    {
+                        "name": "Bikinis",
+                        "id": 200001866
+                    },
+                    {
+                        "name": "Ropa interior de hombre",
+                        "id": 200001865
+                    },
+                    {
+                        "name": "Pijamas de hombre",
+                        "id": 200001813
+                    },
+                    {
+                        "name": "Ropa interior de mujer",
+                        "id": 200000349
+                    },
+                    {
+                        "name": "Calcetines para hombre",
+                        "id": 200000854
+                    }
+                ]
+            },
+            {
+                "name": "Productos virtuales",
+                "id": 201169612,
+                "list": [
+                    {
+                        "name": "Software y juegos",
+                        "id": 201360737
+                    },
+                    {
+                        "name": "Vocación de viaje",
+                        "id": 202227427
+                    },
+                    {
+                        "name": "Reserva de hotel",
+                        "id": 202224618
+                    },
+                    {
+                        "name": "Reserva de vuelo",
+                        "id": 202223632
+                    },
+                    {
+                        "name": "prueba zy leaf0903-1",
+                        "id": 201508601
+                    },
+                    {
+                        "name": "Actividad Offline Para nuevo vendedor",
+                        "id": 201377714
+                    },
+                    {
+                        "name": "Recarga Comisión categoría",
+                        "id": 201809502
+                    },
+                    {
+                        "name": "Teléfono Móvil de recarga",
+                        "id": 201354843
+                    },
+                    {
+                        "name": "Tarjeta de regalo",
+                        "id": 201352363
+                    },
+                    {
+                        "name": "Prepago códigos digitales",
+                        "id": 201353146
+                    },
+                    {
+                        "name": "Tarjeta de regalo de la Comisión categoría",
+                        "id": 201810901
+                    },
+                    {
+                        "name": "Cupones",
+                        "id": 201355944
+                    },
+                    {
+                        "name": "Boleto de evento",
+                        "id": 201356254
+                    }
+                ]
+            },
+            {
+                "name": "Industrial y empresarial",
+                "id": 202216001,
+                "list": [
+                    {
+                        "name": "Maquinaria y accesorios para trabajar la madera",
+                        "id": 1431
+                    },
+                    {
+                        "name": "Maquinaria y suministros agrícolas",
+                        "id": 201919301
+                    },
+                    {
+                        "name": "Equipos de embalaje, impresión y soporte",
+                        "id": 202216602
+                    },
+                    {
+                        "name": "Materia prima textil y de tela",
+                        "id": 202216805
+                    },
+                    {
+                        "name": "Repuestos industriales",
+                        "id": 202216801
+                    },
+                    {
+                        "name": "Metales y aleaciones",
+                        "id": 202216804
+                    },
+                    {
+                        "name": "Equipos de limpieza industriales y comerciales",
+                        "id": 202216803
+                    },
+                    {
+                        "name": "Maquinaria y equipos industriales",
+                        "id": 202217002
+                    },
+                    {
+                        "name": "Control y accesorios de automatización industrial",
+                        "id": 202217003
+                    },
+                    {
+                        "name": "Cauces y Plásticos",
+                        "id": 202217201
+                    },
+                    {
+                        "name": "Compresores de aire, neumática e hidráulica",
+                        "id": 202216002
+                    },
+                    {
+                        "name": "Productos químicos",
+                        "id": 202216003
+                    },
+                    {
+                        "name": "Sopladores, ventiladores industriales y equipos de escape",
+                        "id": 202216202
+                    },
+                    {
+                        "name": "Máquinas de alimentos y equipos de soporte",
+                        "id": 202216402
+                    },
+                    {
+                        "name": "Maquinaria y accesorios de construcción",
+                        "id": 202216401
+                    },
+                    {
+                        "name": "Equipos y accesorios de procesamiento de metales",
+                        "id": 100007188
+                    },
+                    {
+                        "name": "Equipos de manipulación, almacenamiento y transporte",
+                        "id": 100007498
+                    }
+                ]
+            },
+            {
+                "name": "Calzado deportivo, ropa y accesorios",
+                "id": 201768104,
+                "list": [
+                    {
+                        "name": "Ropa deportiva y Accesorios",
+                        "id": 301
+                    },
+                    {
+                        "name": "Baile",
+                        "id": 201445239
+                    },
+                    {
+                        "name": "Zapatillas deportivas",
+                        "id": 200000950
+                    },
+                    {
+                        "name": "Accesorios deportivos",
+                        "id": 202228436
+                    },
+                    {
+                        "name": "Deporte Bolsas",
+                        "id": 200046142
+                    }
+                ]
+            },
+            {
+                "name": "Accesorios para teléfonos y telecomunicaciones",
+                "id": 202192403,
+                "list": [
+                    {
+                        "name": "Tarjetas SIM y Accesorios",
+                        "id": 200001598
+                    },
+                    {
+                        "name": "Accesorios y partes de walkie talkie",
+                        "id": 202196002
+                    },
+                    {
+                        "name": "Fundas y carcasas para móviles",
+                        "id": 202228401
+                    },
+                    {
+                        "name": "Accesorios de fotografía para teléfonos móviles",
+                        "id": 202228601
+                    },
+                    {
+                        "name": "Soportes y soportes",
+                        "id": 202228620
+                    },
+                    {
+                        "name": "Accesorios de teléfono móvil",
+                        "id": 100001205
+                    }
+                ]
+            },
+            {
+                "name": "Moda mujer",
+                "id": 200000345,
+                "list": [
+                    {
+                        "name": "Faldas",
+                        "id": 349
+                    },
+                    {
+                        "name": "Juego Conjuntos",
+                        "id": 201531101
+                    },
+                    {
+                        "name": "Vaqueros (nuevos)",
+                        "id": 202219298
+                    },
+                    {
+                        "name": "Las mujeres Tops",
+                        "id": 201303001
+                    },
+                    {
+                        "name": "Ropa básica",
+                        "id": 202220408
+                    },
+                    {
+                        "name": "Cuero auténtico",
+                        "id": 200129142
+                    },
+                    {
+                        "name": "Sudaderas y jerséis",
+                        "id": 201241002
+                    },
+                    {
+                        "name": "Faldas personalizadas",
+                        "id": 202225201
+                    },
+                    {
+                        "name": "Blusas y camisas personalizadas",
+                        "id": 202225402
+                    },
+                    {
+                        "name": "Vestidos personalizados",
+                        "id": 202225401
+                    },
+                    {
+                        "name": "Monos, peleles y bodis",
+                        "id": 201240602
+                    },
+                    {
+                        "name": "Abrigos largos",
+                        "id": 200128142
+                    },
+                    {
+                        "name": "Bañadores",
+                        "id": 200001918
+                    },
+                    {
+                        "name": "Parkas",
+                        "id": 200001908
+                    },
+                    {
+                        "name": "Chaquetas y Trajes",
+                        "id": 200001912
+                    },
+                    {
+                        "name": "Piel y piel sinténtica",
+                        "id": 200001911
+                    },
+                    {
+                        "name": "Imitación de cuero",
+                        "id": 200001909
+                    },
+                    {
+                        "name": "Conjuntos de mujer",
+                        "id": 200003494
+                    },
+                    {
+                        "name": "Vestidos listos para usar",
+                        "id": 201771210
+                    },
+                    {
+                        "name": "Monos, conjuntos y bodis",
+                        "id": 200000362
+                    },
+                    {
+                        "name": "Pantalones cortos",
+                        "id": 200000367
+                    },
+                    {
+                        "name": "Pantalones y capris",
+                        "id": 200000366
+                    },
+                    {
+                        "name": "Suéteres",
+                        "id": 200000373
+                    },
+                    {
+                        "name": "Sudaderas y suéteres",
+                        "id": 200000348
+                    },
+                    {
+                        "name": "Vestidos",
+                        "id": 200000347
+                    },
+                    {
+                        "name": "Blusas y camisas",
+                        "id": 200000346
+                    },
+                    {
+                        "name": "Leggings",
+                        "id": 200000865
+                    },
+                    {
+                        "name": "Camisetas y tops",
+                        "id": 200000778
+                    },
+                    {
+                        "name": "Abrigos y Chaquetas",
+                        "id": 200000796
+                    },
+                    {
+                        "name": "Piel auténtica",
+                        "id": 200003908
+                    },
+                    {
+                        "name": "Plus tamaño de la ropa",
+                        "id": 201516501
+                    },
+                    {
+                        "name": "De moda musulmana",
+                        "id": 201515701
+                    }
+                ]
+            },
+            {
+                "name": "Moda hombre",
+                "id": 200000343,
+                "list": [
+                    {
+                        "name": "Camisas",
+                        "id": 348
+                    },
+                    {
+                        "name": "Sudaderas",
+                        "id": 201236604
+                    },
+                    {
+                        "name": "Vaqueros (nuevos)",
+                        "id": 202220211
+                    },
+                    {
+                        "name": "Ropa básica",
+                        "id": 202220407
+                    },
+                    {
+                        "name": "Ropa de hombre de talla grande",
+                        "id": 202225807
+                    },
+                    {
+                        "name": "Pantalones",
+                        "id": 201240601
+                    },
+                    {
+                        "name": "Abrigos largos",
+                        "id": 200128143
+                    },
+                    {
+                        "name": "Bañadores",
+                        "id": 200001860
+                    },
+                    {
+                        "name": "Parkas",
+                        "id": 200001877
+                    },
+                    {
+                        "name": "Trajes y chaquetas",
+                        "id": 200001819
+                    },
+                    {
+                        "name": "Conjuntos para hombre",
+                        "id": 200003495
+                    },
+                    {
+                        "name": "Sudaderas y suéteres",
+                        "id": 200000344
+                    },
+                    {
+                        "name": "Camisetas y tops",
+                        "id": 200000779
+                    },
+                    {
+                        "name": "Abrigos y Chaquetas",
+                        "id": 200000795
+                    },
+                    {
+                        "name": "Pantalones cortos",
+                        "id": 200005141
+                    },
+                    {
+                        "name": "De moda musulmana",
+                        "id": 201515601
+                    }
+                ]
+            },
+            {
+                "name": "Complementos de moda",
+                "id": 200000297,
+                "list": [
+                    {
+                        "name": "Ballenas para camisa",
+                        "id": 200346143
+                    },
+                    {
+                        "name": "Conjuntos de bufandas, sombreros y guantes",
+                        "id": 33906
+                    },
+                    {
+                        "name": "Tirantes/tirantes y correctores de postura",
+                        "id": 3280111
+                    },
+                    {
+                        "name": "Telas y accesorios",
+                        "id": 201196803
+                    },
+                    {
+                        "name": "Nuevo Bufanda y de",
+                        "id": 201531601
+                    },
+                    {
+                        "name": "Calentador de brazo",
+                        "id": 201532001
+                    },
+                    {
+                        "name": "Nuevo sombreros",
+                        "id": 201303301
+                    },
+                    {
+                        "name": "Pañuelos de bolsillo",
+                        "id": 200392144
+                    },
+                    {
+                        "name": "Gafas y complementos",
+                        "id": 200000440
+                    },
+                    {
+                        "name": "Accesorios para la cabeza",
+                        "id": 200000395
+                    },
+                    {
+                        "name": "Guantes y manoplas",
+                        "id": 200000394
+                    },
+                    {
+                        "name": "Orejeras",
+                        "id": 200000393
+                    },
+                    {
+                        "name": "Pañuelos",
+                        "id": 200000400
+                    },
+                    {
+                        "name": "Bufandas y chales",
+                        "id": 200000399
+                    },
+                    {
+                        "name": "Calentadores de brazo",
+                        "id": 200000392
+                    },
+                    {
+                        "name": "Sombreros y gorras",
+                        "id": 200000402
+                    },
+                    {
+                        "name": "Cinturones",
+                        "id": 200000298
+                    },
+                    {
+                        "name": "Fajas",
+                        "id": 200000306
+                    },
+                    {
+                        "name": "Corbatas y lazos",
+                        "id": 200000305
+                    },
+                    {
+                        "name": "Máscaras",
+                        "id": 200295142
+                    },
+                    {
+                        "name": "Rodilleras",
+                        "id": 200295143
+                    },
+                    {
+                        "name": "Accesorios para corbatas",
+                        "id": 202229220
+                    },
+                    {
+                        "name": "Hebilla de cinturón",
+                        "id": 200301150
+                    },
+                    {
+                        "name": "Bastones",
+                        "id": 201161809
+                    },
+                    {
+                        "name": "Accesorios DIY",
+                        "id": 201159809
+                    }
+                ]
+            },
+            {
+                "name": "Extensiones y pelucas",
+                "id": 200165144,
+                "list": [
+                    {
+                        "name": "Belleza",
+                        "id": 200317142
+                    },
+                    {
+                        "name": "Suministros para peluquerías",
+                        "id": 200319142
+                    },
+                    {
+                        "name": "Pelo herramientas y accesorios",
+                        "id": 201303603
+                    },
+                    {
+                        "name": "Cabello humano (piel clara)",
+                        "id": 200166144
+                    },
+                    {
+                        "name": "Cabello sintético",
+                        "id": 200167144
+                    },
+                    {
+                        "name": "Cabello sintético (piel oscura)",
+                        "id": 200396142
+                    },
+                    {
+                        "name": "Cabello para asiático",
+                        "id": 202170002
+                    },
+                    {
+                        "name": "Cabello humano (piel oscura)",
+                        "id": 200168146
+                    },
+                    {
+                        "name": "Pelucas mezcladas (para blancas)",
+                        "id": 201222636
+                    },
+                    {
+                        "name": "Pelucas humanas (para piel oscura)",
+                        "id": 127886013
+                    }
+                ]
+            },
+            {
+                "name": "Categorías especiales",
+                "id": 200001075,
+                "list": [
+                    {
+                        "name": "Solo pruebas de gráficos de tamaño",
+                        "id": 202186401
+                    },
+                    {
+                        "name": "Décimos de lotería (sin IVA)",
+                        "id": 201600601
+                    },
+                    {
+                        "name": "Prueba de tabla de tallas de joyería únicamente.",
+                        "id": 202223431
+                    },
+                    {
+                        "name": "Entradas de eventos",
+                        "id": 201174708
+                    },
+                    {
+                        "name": "Tarjeta de regalo",
+                        "id": 200024143
+                    },
+                    {
+                        "name": "Software y juegos (sin IVA)",
+                        "id": 201303705
+                    },
+                    {
+                        "name": "Prueba de descripciones de atributos de ventas",
+                        "id": 202227428
+                    },
+                    {
+                        "name": "Prueba de tabla de tallas de ropa deportiva para mujer únicamente.",
+                        "id": 202225002
+                    },
+                    {
+                        "name": "Prueba de tabla de tallas de joyería únicamente.",
+                        "id": 202225004
+                    },
+                    {
+                        "name": "Prueba de tabla de tallas de ropa deportiva para hombres únicamente.",
+                        "id": 202225003
+                    },
+                    {
+                        "name": "Prueba de tabla de tallas de ropa interior para hombres únicamente.",
+                        "id": 202224019
+                    },
+                    {
+                        "name": "Prueba de tabla de tallas de ropa formal para hombres únicamente.",
+                        "id": 202224426
+                    },
+                    {
+                        "name": "Pago inicial",
+                        "id": 200001627
+                    },
+                    {
+                        "name": "Otros",
+                        "id": 200001620
+                    },
+                    {
+                        "name": "Próximos productos",
+                        "id": 200001623
+                    },
+                    {
+                        "name": "Regalos",
+                        "id": 200001621
+                    },
+                    {
+                        "name": "Por encargo",
+                        "id": 200165143
+                    },
+                    {
+                        "name": "Pago adicional en su pedido",
+                        "id": 200001079
+                    },
+                    {
+                        "name": "Link del pedido",
+                        "id": 200001078
+                    },
+                    {
+                        "name": "Prepago códigos digitales",
+                        "id": 201350802
+                    },
+                    {
+                        "name": "Tarjeta de regalo",
+                        "id": 201252004
+                    },
+                    {
+                        "name": "Cupones",
+                        "id": 201249605
+                    },
+                    {
+                        "name": "Prueba",
+                        "id": 200004358
+                    },
+                    {
+                        "name": "Principiante para xinxiaoyuan",
+                        "id": 200004270
+                    },
+                    {
+                        "name": "Recarga de teléfono móvil",
+                        "id": 200003892
+                    },
+                    {
+                        "name": "Almacenes en el extranjero",
+                        "id": 200003864
+                    },
+                    {
+                        "name": "Cupón",
+                        "id": 200003560
+                    },
+                    {
+                        "name": "Papel pintado de muestra",
+                        "id": 200726001
+                    },
+                    {
+                        "name": "Mini App",
+                        "id": 201355115
+                    },
+                    {
+                        "name": "Solo prueba de tabla de tallas de ropa de hombre",
+                        "id": 202210458
+                    },
+                    {
+                        "name": "Por encargo",
+                        "id": 200376142
+                    },
+                    {
+                        "name": "Solo prueba de la tabla de tallas",
+                        "id": 202176801
+                    }
+                ]
+            },
+            {
+                "name": "Libros y mercancías culturales",
+                "id": 202228412,
+                "list": [
+                    {
+                        "name": "Música, CD y discos de vinilo",
+                        "id": 202228813
+                    },
+                    {
+                        "name": "Derivados culturales (material de oficina)",
+                        "id": 202229219
+                    }
+                ]
+            },
+            {
+                "name": "Novedades y ocasiones especiales",
+                "id": 200000532,
+                "list": [
+                    {
+                        "name": "Prendas funcionales",
+                        "id": 201302006
+                    },
+                    {
+                        "name": "Disfraces de cosplay",
+                        "id": 202226810
+                    },
+                    {
+                        "name": "Ropa exótica",
+                        "id": 200000740
+                    },
+                    {
+                        "name": "Ropa de trabajo y uniformes",
+                        "id": 200000668
+                    },
+                    {
+                        "name": "Ropa del mundo",
+                        "id": 200000666
+                    },
+                    {
+                        "name": "Accesorios de cosplay",
+                        "id": 200000663
+                    },
+                    {
+                        "name": "Ropa de baile",
+                        "id": 100005769
+                    }
+                ]
+            },
+            {
+                "name": "De segunda mano",
+                "id": 201520802,
+                "list": [
+                    {
+                        "name": "Teléfonos móviles usados",
+                        "id": 201523301
+                    }
+                ]
+            },
+            {
+                "name": "Equipos y piezas para motos",
+                "id": 201355758,
+                "list": [
+                    {
+                        "name": "Piezas de la motocicleta",
+                        "id": 201359843
+                    },
+                    {
+                        "name": "Modificación y protección",
+                        "id": 202057610
+                    },
+                    {
+                        "name": "Aviones",
+                        "id": 201371802
+                    },
+                    {
+                        "name": "Los barcos",
+                        "id": 201377402
+                    },
+                    {
+                        "name": "De la motocicleta y ATV",
+                        "id": 201352247
+                    },
+                    {
+                        "name": "De equipos",
+                        "id": 201352950
+                    },
+                    {
+                        "name": "Accesorios de la motocicleta",
+                        "id": 201359147
+                    },
+                    {
+                        "name": "Ornamentales y limpieza y protección",
+                        "id": 201357051
+                    }
+                ]
+            }
+        ]
+    }
+}

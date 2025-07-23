@@ -1,0 +1,65 @@
+{
+    "result": {
+        "status": {
+            "code": 200,
+            "attempt": 1,
+            "data": "success",
+            "executionTime": "1.75",
+            "requestTime": "2025-07-23 12:40:11",
+            "requestId": "4f7e92f5b7d87bd3e1e4ca7ee28f0c8a",
+            "endpoint": "item_desc_2",
+            "apiVersion": "4.0.5",
+            "functionsVersion": "4.0.8",
+            "la": "0.00",
+            "pmu": 470712,
+            "mu": 392672
+        },
+        "settings": {
+            "locale": "es_ES",
+            "itemId": "3256809212376891"
+        },
+        "item": {
+            "properties": {
+                "cut": "Producto químico muy preocupado / Material principal / Origen / Marca compatible",
+                "list": [
+                    {
+                        "name": "Producto químico muy preocupado",
+                        "value": "Ninguno"
+                    },
+                    {
+                        "name": "Material principal",
+                        "value": "Poliuretano termoplástico"
+                    },
+                    {
+                        "name": "Origen",
+                        "value": "CN(Origen)"
+                    },
+                    {
+                        "name": "Marca compatible",
+                        "value": "APPLE"
+                    }
+                ]
+            },
+            "description": {
+                "html": "<div class=\"detailmodule_html\"><div class=\"detail-desc-decorate-richtext\"><p style=\"text-align:center;margin:0;\"><img data-id=\"ckeditor_img290\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/S37697e71f6f8489ba410484d20f709450.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img291\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/S3c365f94034b49488a459b63b08e94bak.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img292\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/Sddaead027bee4fd5ac641a8ccc22ba3fi.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img293\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/Sdd9f6bc49a2d4367a8194e044b3e209cv.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img294\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/S499870fca7fe4516a04475822bde02eeW.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img295\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/S533394bc511d406a8b8ec7300ae7d7acg.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img296\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/S3af0131e4a854480921b600e82fda49an.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img297\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/S7e2ea77b61924f9ea16d4e5d819763f7T.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img298\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/S8ba9c5c317af4be8bc5fe44c9c9628b1Z.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img299\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/S0e7ead50f2214a8fac63971b3e49776ew.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img300\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/S0d4c98e9c8514612b9a9e301cb825836h.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img301\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/Sc7b17649973140aba9993b5220a87884t.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img302\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/S8454055497d545a398c0ae92874a7411P.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img303\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/S177df97acaeb4bb7af58dcde0257f55ac.jpg?width=800&height=800&hash=1600\"><img data-id=\"ckeditor_img304\" referrerpolicy=\"no-referrer\" src=\"//ae01.alicdn.com/kf/Se276278f3b8c486eb0c6afbd679a6f7aj.jpg?width=800&height=800&hash=1600\"></p>\n</div></div>\r\n\n<script>window.adminAccountId=2673123393;</script>\n",
+                "images": [
+                    "//ae01.alicdn.com/kf/S37697e71f6f8489ba410484d20f709450.jpg",
+                    "//ae01.alicdn.com/kf/S3c365f94034b49488a459b63b08e94bak.jpg",
+                    "//ae01.alicdn.com/kf/Sddaead027bee4fd5ac641a8ccc22ba3fi.jpg",
+                    "//ae01.alicdn.com/kf/Sdd9f6bc49a2d4367a8194e044b3e209cv.jpg",
+                    "//ae01.alicdn.com/kf/S499870fca7fe4516a04475822bde02eeW.jpg",
+                    "//ae01.alicdn.com/kf/S533394bc511d406a8b8ec7300ae7d7acg.jpg",
+                    "//ae01.alicdn.com/kf/S3af0131e4a854480921b600e82fda49an.jpg",
+                    "//ae01.alicdn.com/kf/S7e2ea77b61924f9ea16d4e5d819763f7T.jpg",
+                    "//ae01.alicdn.com/kf/S8ba9c5c317af4be8bc5fe44c9c9628b1Z.jpg",
+                    "//ae01.alicdn.com/kf/S0e7ead50f2214a8fac63971b3e49776ew.jpg",
+                    "//ae01.alicdn.com/kf/S0d4c98e9c8514612b9a9e301cb825836h.jpg",
+                    "//ae01.alicdn.com/kf/Sc7b17649973140aba9993b5220a87884t.jpg",
+                    "//ae01.alicdn.com/kf/S8454055497d545a398c0ae92874a7411P.jpg",
+                    "//ae01.alicdn.com/kf/S177df97acaeb4bb7af58dcde0257f55ac.jpg",
+                    "//ae01.alicdn.com/kf/Se276278f3b8c486eb0c6afbd679a6f7aj.jpg"
+                ]
+            }
+        }
+    }
+}

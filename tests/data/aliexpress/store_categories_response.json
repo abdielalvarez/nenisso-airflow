@@ -1,0 +1,57 @@
+{
+    "result": {
+        "status": {
+            "data": "success",
+            "code": 200,
+            "attempt": 1,
+            "executionTime": "0.35",
+            "requestTime": "2025-07-23 12:42:47",
+            "requestId": "31e81c1f6025fa69e3cbfefc20d2e877",
+            "endpoint": "store_categories",
+            "apiVersion": "4.0.5",
+            "functionsVersion": "4.0.8",
+            "la": "0.00",
+            "pmu": 465336,
+            "mu": 394824
+        },
+        "settings": {
+            "sellerId": "231651707",
+            "storeId": "1102051418",
+            "region": "MX"
+        },
+        "resultList": {
+            "categoryList": [
+                {
+                    "name": "Shipping in MX",
+                    "id": 40000008077293,
+                    "image": "//img.alicdn.com/imgextra/i4/O1CN013Bz3gY22RdVKVqUY6_!!6000000007117-2-tps-316-316.png"
+                },
+                {
+                    "name": "Shipping in US",
+                    "id": 40000007994347,
+                    "image": "//img.alicdn.com/imgextra/i4/O1CN013Bz3gY22RdVKVqUY6_!!6000000007117-2-tps-316-316.png"
+                },
+                {
+                    "name": "RC Car ",
+                    "id": 40000002687076,
+                    "image": "//img.alicdn.com/imgextra/i4/O1CN013Bz3gY22RdVKVqUY6_!!6000000007117-2-tps-316-316.png"
+                },
+                {
+                    "name": "RC Drone",
+                    "id": 40000002582537,
+                    "image": "//img.alicdn.com/imgextra/i4/O1CN013Bz3gY22RdVKVqUY6_!!6000000007117-2-tps-316-316.png"
+                },
+                {
+                    "name": "RC Boat",
+                    "id": 40000002783007,
+                    "image": "//img.alicdn.com/imgextra/i4/O1CN013Bz3gY22RdVKVqUY6_!!6000000007117-2-tps-316-316.png"
+                },
+                {
+                    "name": "RC Airplane",
+                    "id": 40000002731960,
+                    "image": "//img.alicdn.com/imgextra/i4/O1CN013Bz3gY22RdVKVqUY6_!!6000000007117-2-tps-316-316.png"
+                }
+            ]
+        }
+    }
+}
