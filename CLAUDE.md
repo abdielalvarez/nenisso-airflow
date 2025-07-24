@@ -480,6 +480,141 @@ airflow dags test workflow_name 2025-01-01
 
 Remember: This project preserves complex business logic while gaining Airflow's orchestration capabilities. Always reference the original n8n workflows in `n8n-server/n8n/workflows/` when implementing new features or debugging issues.
 
+## PostgreSQL Database Operations Research
+
+### IMPORTANT: Database Schema Discovery from n8n-server
+
+**Research Method**: Located in `/home/abdiel/projects/n8n-server/n8n/workflows/` - analyzed actual n8n workflow JSON files to understand production database structure.
+
+### Database Configuration (from n8n workflows)
+
+#### 1. **error_handling** Table
+**Purpose**: Centralized error logging and monitoring for API failures  
+**Schema**: `nenisso-ecommerce.error_handling`  
+**n8n Connection ID**: `K41z3jc09qjD5iD5` ("Postgres account")
+
+**Table Structure**:
+```sql
+CREATE TABLE error_handling (
+    id SERIAL PRIMARY KEY,
+    api_source VARCHAR NOT NULL,           -- Source API identifier
+    workflow_name VARCHAR NOT NULL,        -- n8n workflow name
+    status_code INTEGER,                   -- HTTP status code
+    timestamp TIMESTAMP DEFAULT NOW(),    -- Auto timestamp
+    error_message JSONB,                  -- Error details as JSON
+    api_request JSONB NOT NULL,           -- Original request data
+    violation_details VARCHAR             -- Additional error context
+);
+```
+
+**Usage Patterns**:
+- **INSERT Operations**: All workflow failures logged with full context
+- **Error Classification**: CODE ERROR, STATUS ERROR, NAME ERROR, SUCCESSFUL REQUEST
+- **Data Structure**: 
+  ```json
+  {
+    "api_source": "reviews_for_listing",
+    "workflow_name": "MERCADO LIBRE LISTINGS FOR SEARCH", 
+    "status_code": 500,
+    "error_message": "Full error object",
+    "violation_details": "HTTP status or API violation info",
+    "api_request": "Original request data for debugging"
+  }
+  ```
+
+#### 2. **aliexpress_search_garbage_scoring** Table
+**Purpose**: AI-powered quality analysis of AliExpress search results  
+**Schema**: `nenisso-ecommerce.aliexpress_search_garbage_scoring`  
+**Source Workflow**: `PARENT_-_GENERATE_JSON_AND_UPLOAD_TO_STORAGE_sEMD8hABKqlrvAK4.json`
+
+**Table Structure**:
+```sql
+CREATE TABLE aliexpress_search_garbage_scoring (
+    id SERIAL PRIMARY KEY,
+    search_id VARCHAR NOT NULL,           -- Foreign key reference
+    total_items INTEGER NOT NULL,         -- Total items in search results
+    valid_items INTEGER NOT NULL,         -- Count of relevant items
+    invalid_items INTEGER NOT NULL,       -- Count of irrelevant items  
+    garbage_percentage DECIMAL NOT NULL,  -- Decimal from 0.0 to 1.0
+    execution_time TIMESTAMP DEFAULT NOW() -- Auto timestamp
+);
+```
+
+**AI Analysis Workflow**:
+1. **AliExpress Search**: Execute search via workflow `mVwa36eKZVHRWh3o`
+2. **OpenAI Quality Analysis**: GPT-4O-Mini analyzes result relevance
+3. **Scoring Logic**: Calculate `garbage_percentage = invalid_items / total_items`
+4. **Quality Threshold**: 50% (0.5) - stops processing if exceeded
+5. **Database Insert**: Store quality metrics for monitoring
+
+**AI Prompt Used**:
+```
+You are a search result quality analyzer. Your task is to determine if the search results match the search query.
+
+Instructions:
+1. Extract the search query from result.settings.q
+2. Analyze each item in result.resultList to check if the titles are relevant to the search query
+3. Consider language variations (Spanish/English terms)
+4. Count total items, valid items, and invalid items
+5. Calculate garbage percentage as invalid_items / total_items (0.0 to 1.0)
+```
+
+**Column Mappings (from n8n PostgreSQL node)**:
+```json
+{
+  "total_items": "={{ $json.message.content.total_items }}",
+  "valid_items": "={{ $json.message.content.valid_items }}",
+  "invalid_items": "={{ $json.message.content.invalid_items }}",
+  "garbage_percentage": "={{ $json.message.content.garbage_percentage }}",
+  "search_id": "={{ $('PARSING').item.json.term_id }}"
+}
+```
+
+#### 3. **search_terms** Table
+**Purpose**: Store and manage search terms with embeddings for similarity detection  
+**Schema**: `nenisso-ecommerce.search_terms`
+
+**Table Structure**:
+```sql
+CREATE TABLE search_terms (
+    term_id VARCHAR PRIMARY KEY,          -- Numerical timestamp-based ID
+    term_description VARCHAR NOT NULL,    -- The actual search term
+    created_at TIMESTAMP NOT NULL,        -- Creation timestamp
+    updated_at TIMESTAMP NOT NULL         -- Last update timestamp
+);
+```
+
+**Integration with Vector Similarity**:
+- **Qdrant Integration**: Works alongside Qdrant vector database
+- **Score Thresholds**: 0.9 (90%) similarity threshold for duplicates
+- **Workflow**: Generate embedding → Check Qdrant → Insert if unique
+- **Quality Control**: Prevents duplicate/similar terms
+
+### Database Connection Patterns
+
+**Standard Configuration**:
+```json
+{
+    "schema": "nenisso-ecommerce",
+    "table": "table_name", 
+    "columns": {
+        "mappingMode": "defineBelow",
+        "value": { /* field mappings */ }
+    },
+    "credentials": {
+        "postgres": {
+            "id": "K41z3jc09qjD5iD5",
+            "name": "Postgres account"
+        }
+    }
+}
+```
+
+**n8n Expression Patterns**:
+- Dynamic data binding: `"={{ $json.field_name }}"`
+- Type preservation: `attemptToConvertTypes: false`
+- String handling: `convertFieldsToString: false`
+
 ## AliExpress Service Integration
 
 ### Overview

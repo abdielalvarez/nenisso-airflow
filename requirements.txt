@@ -1,0 +1,29 @@
+# Apache Airflow for workflow orchestration
+apache-airflow==2.8.1
+
+# Airflow providers for external integrations
+apache-airflow-providers-postgres==5.8.0
+apache-airflow-providers-http==4.7.0
+
+# Database and ORM
+sqlalchemy==1.4.53
+psycopg2==2.9.9
+
+# HTTP requests and API integration
+requests==2.31.0
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# Development and testing
+pytest==7.4.4
+pytest-mock==3.12.0
+
+# Code quality
+ruff==0.1.9
+mypy==1.8.0
+
+# Type hints
+types-requests==2.31.0.20240125
+types-psycopg2==2.9.21.20250718
+types-sqlalchemy==1.4.53.38
